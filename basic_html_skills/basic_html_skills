@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="This webpage was created to display basic html skills for lesson 3 in learn.galvanize.com"
+<title>Basic html skills</title>
+</head>
+
+<body>
+<h1>Basic HTML Skills</h1>
+<h2>Includes different headers and paragraphs, an unordered list, and an image that links to a website</h2>
+
+<h3>Let's learn about paragraphs</h3>
+<p>paragraphs are just a bunch of sentences strung together to make a longer thought. like this one.  that last one wasn't a full sentence, but you get the idea.</p>
+
+<p>this one shows you can make more than one paragraph in html.</p>
+
+<h3>We can also make bulletted lists!</h3>
+<ol type="disc">
+  <li>first list item
+  <li>second list item
+  <li>third list item
+</ol>
+
+<h3>Click on the image below to discover where it was taken</h3>
+<a href="https://www.google.com/maps/place/Eldhraun/@61.6992239,-29.1364874,4z/data=!4m5!3m4!1s0x48d0e950f8ead5cd:0x82c4eb4a0a6ba449!8m2!3d63.6769444!4d-18.1408332" target="_blank">
+  <img src="https://origin.img.fotocommunity.com/eldhraun-39528764-9cd7-4194-b022-7344ded75558.jpg?width=1000" alt="A mossy field in Eldhraun, Iceland">
+</a>
+</body>
+</html>
